@@ -1,12 +1,36 @@
-## Hi there 👋
+# 🛍️ DealMungchi
 
-<!--
+[dealmungchi.co.kr](https://www.dealmungchi.co.kr) | [GitHub Organization](https://github.com/dealmungchi)
 
-**Here are some ideas to get you started:**
+**DealMungchi**는 실시간 핫딜 정보를 수집·가공·전송합니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 📦 Modules
+
+| 모듈 | 설명 |
+|------|------|
+| [`hotdealworker`](https://github.com/dealmungchi/hotdealworker) | Go 기반 크롤러 |
+| [`hotdealbatch`](https://github.com/dealmungchi/hotdealbatch) | 배치 작업, DB 적재 및 가공 |
+| [`hotdealapi`](https://github.com/dealmungchi/hotdealapi) | Spring WebFlux API 서버 |
+| [`hotdealalarm`](https://github.com/dealmungchi/hotdealalarm) | Discord 알림 서버 |
+
+---
+
+## 🚀 Skills
+
+- Redis, MySQL/PostgreSQL
+- Go / Kotlin / Java 17+
+- Spring WebFlux
+
+---
+
+## 🤝 기여
+
+---
+
+## 📄 라이선스
+
+MIT
+
+---
