@@ -19,7 +19,7 @@
 
 ## 🚀 Skills
 
-- Redis, MySQL/PostgreSQL
+- Redis, MySQL
 - Go / Kotlin / Java 17+
 - Spring WebFlux
 
