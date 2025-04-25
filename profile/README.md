@@ -2,7 +2,7 @@
 
 [dealmungchi.co.kr](https://www.dealmungchi.co.kr) | [GitHub Organization](https://github.com/dealmungchi)
 
-**DealMungchi**는 실시간 핫딜 정보를 수집·가공·전송합니다.
+**DealMungchi**는 실시간 핫딜 정보 제공합니다.
 
 ---
 
