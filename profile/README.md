@@ -30,11 +30,9 @@
 - [nginx-certbot](https://github.com/wmnnd/nginx-certbot)
 - [nginx-badbot-blocker](https://github.com/mariusv/nginx-badbot-blocker)
 
-## 🤝 기여
-
 ---
 
-## 📄 라이선스
+## 📄 License
 
 MIT
 
