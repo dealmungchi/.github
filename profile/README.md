@@ -14,6 +14,7 @@
 | [`hotdealbatch`](https://github.com/dealmungchi/hotdealbatch) | 배치 작업, DB 적재 및 가공 |
 | [`hotdealapi`](https://github.com/dealmungchi/hotdealapi) | Spring WebFlux API 서버 |
 | [`hotdealalarm`](https://github.com/dealmungchi/hotdealalarm) | Discord 알림 서버 |
+| [`nginx-certbot`](https://github.com/dealmungchi/nginx-certbot) | 웹 프록시 서버 |
 
 ---
 
