@@ -27,10 +27,12 @@
 ---
 
 ## 🔗 Third Party
-- [browserless/chrome:1.60.0-chrome-stable](https://github.com/browserless/browserless)
-- [nginx-certbot](https://github.com/wmnnd/nginx-certbot)
-- [nginx-badbot-blocker](https://github.com/mariusv/nginx-badbot-blocker)
-- [nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
+- 크롤러 서버
+  - [browserless/chrome:1.60.0-chrome-stable](https://github.com/browserless/browserless)
+- 웹 프록시
+  - [nginx-certbot](https://github.com/wmnnd/nginx-certbot)
+  - [nginx-badbot-blocker](https://github.com/mariusv/nginx-badbot-blocker)
+  - [nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
 
 ---
 
