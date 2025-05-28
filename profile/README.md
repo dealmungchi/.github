@@ -30,6 +30,7 @@
 - 크롤러 서버
   - [browserless/chrome:1.60.0-chrome-stable](https://github.com/browserless/browserless) - headless chrome browser
   - [FlareSolverr](ghcr.io/flaresolverr/flaresolverr:latest) - cloudflare bot resolver
+  - https://spys.me/socks.txt - 프록시 서버
 - 웹 프록시
   - [nginx-certbot](https://github.com/wmnnd/nginx-certbot)
   - [nginx-badbot-blocker](https://github.com/mariusv/nginx-badbot-blocker)
