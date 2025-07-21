@@ -39,7 +39,7 @@
   - [node-exporter](https://github.com/prometheus/node_exporter)
 ---
 
-## Structure
+## ⛏️ Structure
                    ┌──────────────────────┐
                    │      Client          │
                    └─────────┬────────────┘
