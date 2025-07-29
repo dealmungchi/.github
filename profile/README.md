@@ -61,7 +61,7 @@ On-premise
 
     ┌──────────────────────┐          ┌──────────────────────┐
     │    hotdealworker     │ ─────→   │ Redis Stream, MySQL  │
-    │ (Go crawling         │          └─────────▲────────────┘
+    │ (Go crawling,        │          └─────────▲────────────┘
     │  Headless Chrome,    │                    │
     │  FlareSolverr,       │          ┌─────────┴────────────┐
     │  SOCKS Proxy)        │          │    hotdealbatch      │
